@@ -1,5 +1,4 @@
 - git: { local-name: capabilities,          version: master,                    uri: 'https://github.com/kejxu/capabilities.git' }
-- git: { local-name: common_msgs,           version: windows_bringup,           uri: 'https://github.com/kejxu/common_msgs' }
 - git: { local-name: ecl_core,              version: windows_bringup,           uri: 'https://github.com/kejxu/ecl_core.git' }
 - git: { local-name: ecl_lite,              version: windows_bringup,           uri: 'https://github.com/kejxu/ecl_lite.git' }
 - git: { local-name: ecl_navigation,        version: release/0.60-melodic,      uri: 'https://github.com/kejxu/ecl_navigation' }
