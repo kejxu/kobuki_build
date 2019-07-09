@@ -6,7 +6,7 @@ jobs:
   steps:
   - script: |
       choco sources add -n=roswin -s https://roswin.azurewebsites.net/api/v2/ --priority 1
-      choco upgrade ros-melodic-desktop_full -y
+      choco upgrade ros-melodic-desktop_full -y --pre
     displayName: 'Install ROS (melodic.desktop_full)'
   # - script: |
   #     call "C:\opt\ros\melodic\x64\setup.bat"
