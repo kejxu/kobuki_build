@@ -5,9 +5,9 @@
 - git: { local-name: std_capabilities,      version: master,                    uri: 'https://github.com/osrf/std_capabilities' }
 - git: { local-name: yocs_msgs,             version: release/0.7-melodic,       uri: 'https://github.com/yujinrobot/yocs_msgs' }
 
-- git: { local-name: ecl_core,              version: windows_bringup,           uri: 'https://github.com/kejxu/ecl_core' }
-- git: { local-name: ecl_lite,              version: windows_bringup,           uri: 'https://github.com/kejxu/ecl_lite' }
-- git: { local-name: ecl_tools,             version: windows_bringup,           uri: 'https://github.com/kejxu/ecl_tools' }
-- git: { local-name: kobuki,                version: windows_bringup,           uri: 'https://github.com/kejxu/kobuki' }
-- git: { local-name: kobuki_core,           version: windows_bringup,           uri: 'https://github.com/kejxu/kobuki_core' }
-- git: { local-name: yujin_ocs,             version: windows_bringup,           uri: 'https://github.com/kejxu/yujin_ocs' }
+- git: { local-name: ecl_core,              version: windows_bringup,           uri: 'https://github.com/ms-iot/ecl_core' }
+- git: { local-name: ecl_lite,              version: windows_bringup,           uri: 'https://github.com/ms-iot/ecl_lite' }
+- git: { local-name: ecl_tools,             version: windows_bringup,           uri: 'https://github.com/ms-iot/ecl_tools' }
+- git: { local-name: kobuki,                version: windows_bringup,           uri: 'https://github.com/ms-iot/kobuki' }
+- git: { local-name: kobuki_core,           version: windows_bringup,           uri: 'https://github.com/ms-iot/kobuki_core' }
+- git: { local-name: yujin_ocs,             version: windows_bringup,           uri: 'https://github.com/ms-iot/yujin_ocs' }
